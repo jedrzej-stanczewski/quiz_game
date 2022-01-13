@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/01/08 20:05:47.490,=C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/08 20:05:48.408,=C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/01/08 21:40:26.381,C:\Users\jstan\Documents\Embarcadero\Studio\Projects\quiz_game_project.fmx=C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/01/08 21:40:26.381,C:\Users\jstan\Documents\Embarcadero\Studio\Projects\quiz_game_project.h=C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/01/08 21:40:26.381,C:\Users\jstan\Documents\Embarcadero\Studio\Projects\quiz_game_project.cpp=C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/01/08 21:40:35.820,C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\jstan\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
